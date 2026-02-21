@@ -3,7 +3,7 @@ import { Target, Eye, History, Award, Quote } from 'lucide-react';
 import fondateurImg from '@/assets/fondateur.JPG';
 import equipe1Img from '@/assets/equipe1.JPG';
 import equipe2Img from '@/assets/equipe1.JPG';
-import equipe3Img from '@/assets/equipe3.jpg';
+import equipe3Img from '@/assets/equipe1.jpg';
 
 export function AboutSection() {
   const features = [
