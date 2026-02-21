@@ -2,8 +2,8 @@ import { motion } from 'motion/react';
 import { Target, Eye, History, Award, Quote } from 'lucide-react';
 import fondateurImg from '@/assets/fondateur.JPG';
 import equipe1Img from '@/assets/equipe1.JPG';
-import equipe2Img from '@/assets/equipe1.JPG';
-import equipe3Img from '@/assets/equipe1.jpg';
+import equipe2Img from '@/assets/equipe2.jpg'; // Note the lowercase .jpg in your screenshot
+import equipe3Img from '@/assets/equipe3.JPG'; // This was missing in your snippet
 
 export function AboutSection() {
   const features = [
